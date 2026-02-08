@@ -23,9 +23,9 @@ The project follows **RESTful API principles** and demonstrates menu management,
 - Public menu viewing
 - Inventory management
 - Table management
-- Order placement with stock deduction
-- Daily sales reports
+- Order placement
 - Role-based access control (ADMIN / STAFF)
 - Proper REST validation and error handling
 
 ---
+
