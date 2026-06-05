@@ -1,4 +1,4 @@
-   # Restaurant Management System (REST API)
+    # Restaurant Management System (REST API)
 
 A simple **Restaurant Management System** built with **Spring Boot** and **PostgreSQL**.  
 The project follows **RESTful API principles** and demonstrates menu management, inventory control, table management, order processing, and reporting.
